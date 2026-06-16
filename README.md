@@ -2,9 +2,9 @@
 
 ## Datos del estudiante
 
-Nombre: Nahomy Guanipatin
-Asignatura: Programación Orientada a Objetos
-Actividad: Taller práctico - Organización modular de un sistema orientado a objetos en Python
+Nombre: Nahomy Guanipatin.
+Asignatura: Programación Orientada a Objetos.
+Actividad: Taller práctico - Organización modular de un sistema orientado a objetos en Python.
 
 ## Descripción del proyecto
 
